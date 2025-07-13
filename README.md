@@ -1,9 +1,9 @@
-# Smart_Cane
-This project is a can for the visually impaired, with object detection and GPS capabilities.
+# TrueSight
+This project is glasses for the visually impaired with on board visual odometry, to allow for real time object detection and path assistance.
 
 Requirements:
-1. Object avoidance. The product will send haptic feedback to the handle of the cane allowing for haptic feedback of the user is approaching an obstacle.
-2. The user will recevive haptic feedback if their line of travel is shifting to the side.
+1. Object avoidance. The product will send audio to the user as they approach and obstacle.
+2. The user will recevive audio feedback if their line of travel is shifting to the side.
 
 Repository Organization:
 1. [Product Planning](url)
