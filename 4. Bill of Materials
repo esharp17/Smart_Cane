@@ -1,0 +1,4 @@
+1. Adafruit BNO-055: https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview
+Allows for 9 DOF orientation and acceleration vectoring with on board sensor fusion of a MEMS accelerometer, magnetometer, and gyroscope. Serves as an affordable all in one solution to real time orientation tracking. Will be very useful for odometry when integrated with on board camera and ML algorithm.
+
+2. 
